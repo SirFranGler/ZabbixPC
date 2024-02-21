@@ -42,7 +42,7 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+![Dashboard Screenshot](https://github.com/SirFranGler/netology/blob/1de34bd5125ab8a0906794b86f5dc10fb60a69dd/Dashboard.png)`
 
 
 ---
@@ -67,7 +67,11 @@
 ```
 
 `При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+![Hosts](https://github.com/SirFranGler/netology/blob/6c6d1907562462bfe2af8c8f3f6232b1d505e32c/hosts.png)`
+`При необходимости прикрепитe сюда скриншоты
+![Agent](https://github.com/SirFranGler/netology/blob/6c6d1907562462bfe2af8c8f3f6232b1d505e32c/zabbixAgentON.png)`
+`При необходимости прикрепитe сюда скриншоты
+![LAtestData](https://github.com/SirFranGler/netology/blob/6c6d1907562462bfe2af8c8f3f6232b1d505e32c/image.png)`
 
 
 ---
